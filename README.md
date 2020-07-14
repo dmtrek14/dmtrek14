@@ -1,3 +1,6 @@
+![An image of the milky way](https://scifibrarian.files.wordpress.com/2016/02/space.jpg "Milky way in space")
+
+
 # Hi there 👋
 I'm Danielle! I am a software developer with a passion for building accessible and well-designed applications. I also have an MFA in Creative Writing (Fiction). I'm mostly self-taught, aside from a couple courses in grad school, and have learned on the job.
 
