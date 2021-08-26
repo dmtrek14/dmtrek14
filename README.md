@@ -2,9 +2,11 @@
 
 
 # Live Long and Prosper :vulcan_salute:
-I'm Danielle! I am a software developer with a passion for building accessible and well-designed applications. I also have an MFA in Creative Writing (Fiction). I'm mostly self-taught, aside from a couple courses in grad school, and have learned on the job.
+I'm Danielle! I am a software developer with a passion for building accessible and well-designed applications. I'm mostly self-taught aside from a couple courses in grad school, and have otherwise learned on the job. HTML, CSS, and vanilla JS were my first languages back in the (gulp) late 90s (though, I have a hazy memory of learning some Basic in elementary school). I've since picked up C# and the .NET ecosystem, SQL, scrappy React and ES6, enough ColdFUsion to make a mess of things, and sprinkles of Python and PHP. I also have an MFA in Creative Writing (Fiction).
 
 - 😄 Pronouns: she/her/hers
-- 🔭 I’m currently working on: Gatsby! I'm working on a personal website that uses Sanity.io as the headless CMS and Gatsby for the front end. I'm also working on a Prismic-backed Gatsby site for one of the divisions in my organization.
+- 🔭 I’m currently working on: Learning Rust, playing with Astro.build, making an Alexa skill, and continuing to get better with React and all the .NET things
+- 🌌 Things I'd like to build: sample/template websites for writers and animal rescues, a minimal but 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dmtrek14)](https://github.com/LordDashMe/github-contribution-stats/)
+  <img align="center" alt="List of top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmtrek14&theme=gotham&show_icons=true&layout=compact" />
+  <img align="center" alt="Contribution statistics" src="https://github-readme-stats.vercel.app/api?username=dmtrek14&theme=gotham&show_icons=true" />
