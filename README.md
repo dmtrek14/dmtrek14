@@ -10,5 +10,6 @@ The projects here are just my hobby projects and are in various states of comple
 - 🔭 Personal projects I’m currently working on: Learning Rust, playing with Astro.build, making an Alexa skill, and continuing to get better with React and Typescript
 - 🌌 Things I'd like to build: sample/template websites for writers and animal rescues to use, a minimal yet rich text-editor for writers, some plugins for Obsidian.md
 
-<a href="https://github.com/dmtrek14/"><img align="center" alt="List of top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmtrek14&theme=gotham&show_icons=true" /></a>
-<a href="https://github.com/dmtrek14/"><img align="center" alt="Contribution statistics" src="https://github-readme-stats.vercel.app/api?username=dmtrek14&theme=gotham&show_icons=true" /></a>
+## Assorted Stats
+![Metrics](https://metrics.lecoq.io/dmtrek14?template=classic&base.header=0&languages=1&achievements=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&gists=false&config.timezone=America%2FLos_Angeles&config.octicon=true)
+
