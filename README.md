@@ -19,5 +19,10 @@ The projects here are just my hobby projects and are in various states of comple
   - Some plugins for Obsidian.md (an inventory tracker for DND is first on my list)
 
 ## Assorted Stats
-![Metrics](https://metrics.lecoq.io/dmtrek14?template=classic&base.header=0&languages=1&achievements=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&gists=false&config.timezone=America%2FLos_Angeles&config.octicon=true)
+![Metrics](https://metrics.lecoq.io/dmtrek14?template=repository&base.header=0&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FLos_Angeles&config.octicon=true)
+
+
+
+[![gists-readme](https://gists-readme.yizack.com/api?user=dmtrek14&theme=dark&n=20)](https://gist.github.com/dmtrek14)
+
 
