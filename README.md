@@ -9,7 +9,7 @@ The projects here are just my hobby projects and are in various states of comple
 - 💻 Work projects: upgrading the voting system end to end, replacing our 10-years-past-EOL site search with a self-hosted Elasticsearch stack, transforming/importing old data into newer database, wiring up Prismic-backed Gatsby and Astro pages for our org, migrating .NET 4.8 apps to .NET 6, and assorted other technical debt
 - 🔭 Personal projects I’m currently working on: 
   - Learning Rust 
-  - Playing with Astro.build 
+  - Making a dotfiles/config manager in Tauri
   - Continuing to get better with React and Typescript
 - 🌌 Things I'd like to build: 
   - An Alexa skill
