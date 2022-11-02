@@ -19,8 +19,8 @@ The projects here are just my hobby projects and are in various states of comple
   - Some plugins for Obsidian.md (an inventory tracker for DND is first on my list)
 
 ## Assorted Stats
-![My Github stats](https://raw.githubusercontent.com/dmtrek/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![My language stats](https://raw.githubusercontent.com/dmtrek/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![My Github stats](https://raw.githubusercontent.com/dmtrek14/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![My language stats](https://raw.githubusercontent.com/dmtrek14/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 [![gists-readme](https://gists-readme.yizack.com/api?user=dmtrek14&theme=dark&n=20)](https://gist.github.com/dmtrek14)
 
