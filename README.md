@@ -5,14 +5,11 @@ I'm Danielle! I am a software developer with a passion for building accessible a
 
 The projects here are just my hobby projects and are in various states of completion, so are only a glimpse of my code style.
 
-- 😄 Pronouns: she/her/hers
-- 💻 Work projects: upgrading the voting system end to end, replacing our 10-years-past-EOL site search with a self-hosted Elasticsearch stack, transforming/importing old data into newer database, wiring up Prismic-backed Gatsby and Astro pages for our org, migrating .NET 4.8 apps to .NET 6, and assorted other technical debt
 - 🔭 Personal projects I’m currently working on: 
   - Learning Rust 
   - Making a dotfiles/config manager in Tauri
   - Continuing to get better with React and Typescript
 - 🌌 Things I'd like to build: 
-  - An Alexa skill
   - A VSCode theme  
   - Sample/template websites for writers and animal rescues to use
   - A minimal yet rich text-editor for writers
